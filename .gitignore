@@ -3,3 +3,4 @@ nofy083 2024 w02 R03_s_poznamkami.pdf
 Guides/f77prof.pdf
 Guides/fortran_refcard_a4.pdf
 *.out
+.gitignore
